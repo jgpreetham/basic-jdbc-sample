@@ -4,7 +4,7 @@
 * Database: HSQL DB  
 * CRUD operations using JDBC  
 
- *Note: Make changes according to your needs in JDBCConstants.java file. Check out the comments and system console after running the program.*  
+ *Note: Make changes according to your needs in JDBCConstants.java file. Check out the comments and system console after running the program. This project needs to be refactored to use best practices which will be done later. As of now this code should be used only for understanding purposes.*  
 
 #### Note
 
